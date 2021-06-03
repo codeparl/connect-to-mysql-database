@@ -1,14 +1,20 @@
-## Getting Started
+# How to connect to a mysql database in java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## About this code
 
-## Folder Structure
+This code example shows how to establish a connection to a mysql database.
+To make sure this code works in your case, you must include the mysql connector for java into your project's "Referenced Libraries" in VSCode.
 
-The workspace contains two folders by default, where:
+## How to run this code
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+In order to run this code, you must install the  jdk-16 on your machine.
+after then, you may install java extension pack and java project manager into your VSCode. Next, just run your code within the VSCode to see the outcome. I have attached the screenshot for this code example showing how
+the code worked on my machine.
 
-## Dependency Management
+## author
 
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+This code example was writted by [Codeparl](https://github.com/codeparl)
+
+## More code examples
+
+For more code examples, please checkout [codeparl.com](https://codeparl.com)
